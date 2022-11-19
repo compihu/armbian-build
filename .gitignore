@@ -17,6 +17,7 @@ ubuntu-*-cloudimg-console.log
 /cache/
 /*userpatches*/
 /userpatches
+/volumes/
 
 ### General annoyances ###
 .DS_Store
